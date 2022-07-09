@@ -1,4 +1,4 @@
-# WhatsApp-multiple contacte_add
+# WhatsApp-multiple contact_add
 
 multiple contacte_add is a Python code which helps it users to add multiple people to a specific whatsapp group using selenium automation
 
