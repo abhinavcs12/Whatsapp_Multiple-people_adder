@@ -26,6 +26,8 @@ Clone the repo and edit the people.csv file
 
 Import the csv in to your [google account](https://contacts.google.com/)
 
+Update the location of ChromeWebDriver in the python file
+
 Run the python file 
 
 Enter the name of the group you want to add people to
